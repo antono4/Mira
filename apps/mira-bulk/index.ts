@@ -12,7 +12,7 @@ import Papa from 'papaparse';
 import { researchCompany, type CustomDataPoint, type EnrichmentResult } from 'mira-ai';
 import PQueue from 'p-queue';
 
-const WORKSPACE_ID = 'a9dd366a-bd19-4155-9045-20e5db939322';
+const WORKSPACE_ID = '0ab3cd45-50b4-4870-ac51-6babc406650b';
 const COMPANIES_CSV_URL = 'https://vcoabomphfvqiexopjjh.supabase.co/storage/v1/object/public/CSV/companies.csv';
 
 // Stop processing after this many consecutive failures
