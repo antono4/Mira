@@ -285,3 +285,7 @@ Distributed under the MIT License. See [LICENSE](./LICENSE) for details.
 ## Credits
 
 Logo and UI design by [salomeskv](https://www.salomeskv.com/about)
+
+---
+
+> **Created by Antono**
